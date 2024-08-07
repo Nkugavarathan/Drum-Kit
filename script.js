@@ -70,3 +70,4 @@ function buttonAnimation(currentKey){
         }, 100); // 100ms delay before removing the class
     }
 }
+
